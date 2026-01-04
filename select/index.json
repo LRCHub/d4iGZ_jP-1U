@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Carry You Home",
+  "base_artist": "Alex Warren",
+  "createdAt": "2026-01-04T13:04:53.060023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/01_Carry_You_Home_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/02_Carry_You_Home_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/03_Carry_You_Home_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Carry You Home (feat. StarGate & Aloe Blacc)",
+      "artist": "Tiësto feat. Stargate & Aloe Blacc",
+      "has_synced": true,
+      "path": "select/04_Carry_You_Home_(feat._StarGate_&_Aloe_Blacc)_Tiësto_feat._Stargate_&_Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "Tiësto/Stargate/Aloe Blacc",
+      "has_synced": true,
+      "path": "select/05_Carry_You_Home_Tiësto_Stargate_Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/06_Carry_You_Home_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "Ward Thomas",
+      "has_synced": true,
+      "path": "select/07_Carry_You_Home_Ward_Thomas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "Ward Thomas",
+      "has_synced": true,
+      "path": "select/08_Carry_You_Home_Ward_Thomas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/09_Carry_You_Home_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Carry You Home (feat. StarGate & Aloe Blacc)",
+      "artist": "Tiësto",
+      "has_synced": false,
+      "path": "select/10_Carry_You_Home_(feat._StarGate_&_Aloe_Blacc)_Tiësto.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "Circa Waves",
+      "has_synced": true,
+      "path": "select/11_Carry_You_Home_Circa_Waves.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/12_Carry_You_Home_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/13_Carry_You_Home_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Carry You Home",
+      "artist": "Ward Thomas",
+      "has_synced": true,
+      "path": "select/14_Carry_You_Home_Ward_Thomas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Carry You Home",
+      "artist": "Alex Warren",
+      "has_synced": false,
+      "path": "select/pl_01_Carry_You_Home_Alex_Warren.txt"
+    }
+  ]
+}
